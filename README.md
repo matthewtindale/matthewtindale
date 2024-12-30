@@ -1,5 +1,9 @@
-## Hi, I'm Matthew Tindale 👋
-I am a second-year computer engineering student at Queen's Univeristy
+<h1 align="center">
+Hi, I'm Matthew Tindale 👋
+</h1>
+
+## 💫 About Me
+I am a second-year computer engineering student at Queen's Univeristy, motivated and eager to collaborate and contribute to meaningful projects.
 <!--
 **matthewtindale/matthewtindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
