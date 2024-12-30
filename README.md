@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Matthew Tindale 👋
+I am a second-year computer engineering student at Queen's Univeristy
 <!--
 **matthewtindale/matthewtindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
